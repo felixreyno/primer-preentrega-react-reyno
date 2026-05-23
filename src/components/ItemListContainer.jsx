@@ -7,7 +7,7 @@ const ItemListContainer = ({ greeting }) => {
       </div>
 
       <div className="products-placeholder">
-        <p>📦 El catálogo de productos se mostrará aquí próximamente.</p>
+        <p>📦 Catálogo</p>
       </div>
     </div>
   );
